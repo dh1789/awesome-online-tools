@@ -79,6 +79,7 @@
 - [JSON Viewer](https://json-viewer.autocompany.workers.dev) - 在线 JSON 格式化查看器，支持语法高亮和折叠
 - [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev) - 全球 DNS 传播检查，支持 A/AAAA/CNAME/MX/NS/TXT 记录
 - [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev) - SSL/TLS 证书到期监控，提前预警
+- [NetTools](https://beomanro.com/) - 47 free network/security/developer tools (subnet calculator, DNS lookup, JWT, Base64, cron, NMEA checksum...). 100% client-side, no signup.
 
 ## Interesting
 
